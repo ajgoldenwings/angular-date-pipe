@@ -61,3 +61,6 @@ export class DateAgoPipe implements PipeTransform {
 }
 
 ```
+
+## Credits
+From https://medium.com/@thunderroid/angular-date-ago-pipe-minutes-hours-days-months-years-ago-c4b5efae5fe5
