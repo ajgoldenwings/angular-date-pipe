@@ -5,7 +5,7 @@ This readme shows how to create a date pipe that simulates how to display a date
 1. Create folder to store pipes. In the app folder you can create a pipes folder.
 2. Run command: ```ng g p DateAgo```
 3. Copy code below into your new pipe.
-4. In your code, you can now use the pipe: '''<p>Published: {{dateCreated | dateAgo}}</p>'''
+4. In your code, you can now use the pipe: ```<p>Published: {{dateCreated | dateAgo}}</p>```
 
 ## Code
 
